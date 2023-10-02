@@ -82,4 +82,4 @@ let name2 = "John";
 console.log(name1 === name2);
 
 // ESERCIZIO EXTRA
-console.log(name1.toLowerCase === name2.toLowerCase);
+console.log(name1.toLowerCase() === name2.toLowerCase());
