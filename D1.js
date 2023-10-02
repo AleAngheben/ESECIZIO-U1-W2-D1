@@ -16,11 +16,13 @@ console.log("Hello World");
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 // i principali datatype sono : String, Number, Boolean, Undefined e Null.
-// STRING = parole/testo che va racchiuso tra appici ""
+// STRING = parole/testo che va racchiuso tra apici ""
 // NUMBER = di tipo numero, può essere intero o decimale ( 3, 5, 232, 9.54) oppure NaN (Not a Number)
 // BOOLEAN = uno dei datatype più potenti, risponde con true o false e si può utilizzare in svariate occasioni
 // UNDEFINED = Assenza di un valore
 // NULL = Assenza intenzionale di un valore che verrà aggiornato in un secondo momento
+
+// è considerato errore racchiudere in valore di tipo Number tra apici
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
@@ -81,3 +83,6 @@ console.log(name1 === name2);
 
 // ESERCIZIO EXTRA
 console.log(name1.toLowerCase === name2.toLowerCase);
+
+let numero = ciaooooo;
+console.log(numero);
