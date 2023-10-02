@@ -15,7 +15,7 @@ console.log("Hello World");
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-// i principali datatype sono : String, Number, Boolean, Undefined e Null.
+// I principali datatype sono : String, Number, Boolean, Undefined e Null.
 // STRING = parole/testo che va racchiuso tra apici ""
 // NUMBER = di tipo numero, può essere intero o decimale ( 3, 5, 232, 9.54) oppure NaN (Not a Number)
 // BOOLEAN = uno dei datatype più potenti, risponde con true o false e si può utilizzare in svariate occasioni
